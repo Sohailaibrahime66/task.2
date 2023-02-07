@@ -1,0 +1,114 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(0, 0, 0);
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    height: 50;
+    clear: right;
+}
+  
+  li {
+    float: right;
+}
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+div.card{
+    margin: 100 10;
+    width: 270;
+    height: 450;
+    background-image: url(images.jpg);
+    background-size: cover;
+    border: 2px solid rgb(5, 5, 5);
+    border-radius: 12px;
+    float: left;
+    
+}
+div.card1{
+    margin: 100 10;
+    width: 270;
+    height: 450;
+    background-image: url(img_lights.jpg);
+    background-size: cover;
+    border: 2px solid rgb(5, 5, 5);
+    border-radius: 12px;
+    float: left;
+    
+}
+div.card2{
+    margin: 100 10;
+    width: 270;
+    height: 450;
+    background-image: url(img_5terre.jpg);
+    background-size: cover;
+    border: 2px solid rgb(5, 5, 5);
+    border-radius: 12px;
+    float: left;
+    
+}
+div.card3{
+    margin: 100 10;
+    width: 270;
+    height: 450;
+    background-image: url(images\ \(1\).jpg);
+    background-size: cover;
+    border: 2px solid rgb(5, 5, 5);
+    border-radius: 12px;
+    float: left;
+    
+}
+div.card4{
+    margin: 100 10;
+    width: 270;
+    height: 450;
+    background-image: url(img_lights.jpg);
+    background-size: cover;
+    border: 2px solid rgb(5, 5, 5);
+    border-radius: 12px;
+    float: left;
+    
+}
+img{
+    border-radius: 50%;
+    padding: 10 10;
+}
+.text.text{
+
+    position: relative;
+    position: absolute;
+    left:80;
+    top:25;
+  
+}
+input{
+    width: 300;
+    height: 35;
+    border: 2px solid rgb(5, 5, 5);
+    border-radius: 12px;
+}
+.replay{
+    background-color: gray;
+    width: 90%;
+   margin-left: 50px;
+   border-radius: 10px; 
+   margin-bottom: 0;
+   overflow: hidden;
+   /*  height: ;  */
+ 
+}
+
+
+
